@@ -1,4 +1,4 @@
-# IoT Earth Resistivity Tester: ESP32-Based Soil Analysis
+# Earth Resistivity Tester: ESP32-Based Soil Analysis
 
 A specialized IoT-enabled tool designed to measure soil resistivity for electrical grounding system protection. This device implements the **Schlumberger configuration** to ensure accurate measurements even in non-homogeneous soil conditions.
 
