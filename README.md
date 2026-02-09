@@ -30,6 +30,8 @@ Soil resistivity is a vital factor in ensuring the safety and reliability of ele
 | **Keypad Columns** | 16, 4, 15 | Digital Input |
 | **Relay Module** | (Specified in code) | Digital Output |
 
+![Earth Resistivity Tester Schematic](Hardware/Schematic-Diagram.png)
+
 ## 📊 Scientific Calculation
 Resistivity ($\rho_A$) is calculated using the Schlumberger formula:
 
